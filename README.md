@@ -1,13 +1,12 @@
 ## Coupa Software Supply Chain Guru Complexity Optimization   
 
----
-
 ### Credit     
 *Anirudh Nanduri | Daniel Wang | Shanchen liu | Shri Harshini Shanmugam* 
    
 ### Project Mentors   
 *Guangrui Xie, Orestis Kaitezidis, Jason Silverman, Gary Strickler, Matt Bassett*
 
+---
 
 ### Demonstration
 ![Demo](https://github.com/danwyk/Assessing_Combinatorial_Complexity/blob/main/Project_Proposal/page1.png)
